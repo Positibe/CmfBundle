@@ -1,5 +1,7 @@
-PositibeCmfBundle
-=================
+PositibeCmfBundle [deprecated]
+==============================
+
+This bundle is now deprecated in favor to PositibeCoreBundle[https://github.com/Positibe/CoreBundle]
 
 This bundle provide combine some Positibe bundles with Sylius ResourcesBundle to provide a simple CMS for Symfony projects.
 
